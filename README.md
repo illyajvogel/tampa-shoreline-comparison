@@ -21,9 +21,9 @@ It demonstrates how spatial data can be visualized interactively to highlight en
 - `.gitignore` — standard Python exclusions
 - `LICENSE` — MIT License
 
-## 🌐 View the Map
+## 🌐 View the Interactive Map
 You can download and open the interactive HTML map locally:
-👉 [**Click here to view the map**](./shoreline_compare_map.html)
+👉 **[Open the live interactive map](https://illyajvogel.github.io/tampa-shoreline-comparison/)**
 
 ## 🧭 Future Plans
 - Add toggles for multiple shoreline years  
